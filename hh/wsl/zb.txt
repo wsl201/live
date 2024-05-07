@@ -72,7 +72,6 @@ CCTV13 新闻-内网,http://192.168.10.1:8205/udp/238.1.79.35:4392
 安徽卫视-内网,http://192.168.10.1:8205/udp/238.1.78.150:7072
 辽宁卫视-内网,http://192.168.10.1:8205/udp/238.1.78.21:6096
 安徽综艺体育-内网,http://192.168.10.1:8205/udp/238.1.79.41:4440
-安徽综艺体育-内网,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8#http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽公共-内网,http://192.168.10.1:8205/udp/238.1.79.43:4456
 
 
@@ -717,6 +716,19 @@ IPV6浙.黑.地方台,#genre#
 黑龙江影视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
 黑龙江影视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 
+
+🇨🇳｜安徽本地,#genre#
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+安徽公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
+安徽公共,http://live.cooltv.top/tv/anhui.php?id=ahgg
+安徽公共,http://mmitv.top/test/ahtv.php?id=16#http://lu1.cc/itv/ahtv/ahtv1.php?id=ahgg
+淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8
+淮南公共频道,http://stream.0554news.com/hnds2/sd/live.m3u8
+
+
 咪咕移动,#genre#
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225706/index.m3u8
@@ -844,15 +856,6 @@ NewTV武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 NewTV炫舞未来,http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
 NewTV怡伴健康,http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
 NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
-
-🇨🇳｜安徽本地,#genre#
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8#http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
-安 徽 公 共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8#http://live.cooltv.top/tv/anhui.php?id=ahgg#http://mmitv.top/test/ahtv.php?id=16#http://lu1.cc/itv/ahtv/ahtv1.php?id=ahgg
-安 徽 影 视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8
-淮南公共频道,http://stream.0554news.com/hnds2/sd/live.m3u8
-
 
 
 移动专区,#genre#
