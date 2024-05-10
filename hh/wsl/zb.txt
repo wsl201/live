@@ -722,12 +722,6 @@ IPV6浙.黑.地方台,#genre#
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-安徽公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
-安徽公共,http://live.cooltv.top/tv/anhui.php?id=ahgg
-安徽公共,http://mmitv.top/test/ahtv.php?id=16#http://lu1.cc/itv/ahtv/ahtv1.php?id=ahgg
-淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8
-淮南公共频道,http://stream.0554news.com/hnds2/sd/live.m3u8
-
 
 安徽电信组播,#genre#
 
