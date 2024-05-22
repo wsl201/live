@@ -101,3 +101,5 @@ video://https://yangshipin.cn/#/tv/home?pid=600002506
 video://https://yangshipin.cn/#/tv/home?pid=600002505    
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视高清
 video://https://yangshipin.cn/#/tv/home?pid=600002498
+#EXTINF:-1 tvg-id="1" tvg-name="先锋乒羽" group-title="卫视",先锋乒羽
+video://http://www.hitime5.com/tv/hunan/pingyu.html
