@@ -1,7 +1,5 @@
 IPV6收藏,#genre#
 
-安徽公共,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
-先锋乒羽,video://https://live.mgtv.com/?channelId=329
 CCTV-3_综艺-IPV6,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3_综艺-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3_综艺-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -58,6 +56,8 @@ CCTV-13_新闻-IPV6,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980
 安徽综艺体育-内网,http://192.168.10.1:8205/udp/238.1.79.41:4440
 安徽公共-内网,http://192.168.10.1:8205/udp/238.1.79.43:4456
 
+安徽公共-xt,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
+先锋乒羽xt,video://https://live.mgtv.com/?channelId=329
 
 内网收藏,#genre#
 
