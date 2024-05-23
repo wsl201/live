@@ -57,7 +57,7 @@ CCTV-13_新闻-IPV6,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980
 安徽公共-内网,http://192.168.10.1:8205/udp/238.1.79.43:4456
 
 安徽公共-xt,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
-先锋乒羽xt,video://https://live.mgtv.com/?channelId=329
+先锋乒羽-xt,video://https://live.mgtv.com/?channelId=329
 
 内网收藏,#genre#
 
