@@ -1,0 +1,12 @@
+[
+{"name": "🎶超级MV","url": "https://cloud.lxweb.cn/f/eNb1Ua/歌曲广场舞.txt"},
+{"name":"👙魅惑少女","url":"https://cloud.lxweb.cn/f/bGxASp/出镜少女.txt"},
+{"name":"🩳绅士辅导","url":"https://cloud.lxweb.cn/f/GdpAsg/万能钥匙.txt"},
+{"name":"🛀🏻快车资源","url":"https://cloud.lxweb.cn/f/rWJ1hE/快车资源.txt"},
+{"name":"🤷‍♀️羽龑专线","url":"https://cloud.lxweb.cn/f/xzL8iM/羽龑专线.txt"},
+{"name":"🩱影视界源","url":"https://cloud.lxweb.cn/f/LQpksD/影视界源.txt"},
+{"name":"🥻浮力湾湾","url":"https://cloud.lxweb.cn/f/oE2wsY/湾湾一天.txt"},
+{"name":"🌊加勒比嗨","url":"https://cloud.lxweb.cn/f/qoRmhe/福利来了.txt"},
+{"name":"🌆深夜互搏","url":"https://cloud.lxweb.cn/f/PyOYub/午夜频道.txt"},
+{"name":"🐺狼人猎奇","url":"https://cloud.lxweb.cn/f/8xwrs1/绿茶直播.json"}
+]
