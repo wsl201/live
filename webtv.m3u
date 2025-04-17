@@ -219,8 +219,6 @@ webview://https://yangshipin.cn/tv/home?pid=600190406
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视;央视频",西藏卫视
 webview://https://yangshipin.cn/tv/home?pid=600190403
 
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="安徽本地",安徽卫视
-webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽经济生活.png" group-title="安徽本地",安徽经济生活
 webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
