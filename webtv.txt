@@ -597,11 +597,11 @@ CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 安徽综艺体育,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
 安徽影视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
 安徽公共,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
-安徽卫视,video://https://h5.ahtv.cn/folder9000/folder20193?channel_id=47
-安徽经济生活,video://https://h5.ahtv.cn/folder9000/folder20193?channel_id=71
-安徽综艺体育,video://https://h5.ahtv.cn/folder9000/folder20193?channel_id=73
-安徽影视,video://https://h5.ahtv.cn/folder9000/folder20193?channel_id=72
-安徽公共,video://https://h5.ahtv.cn/folder9000/folder20193?channel_id=50
+安徽卫视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=47
+安徽经济生活,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=71
+安徽综艺体育,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=73
+安徽影视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=72
+安徽公共,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=50
 湖南先锋乒羽,webview://https://live.mgtv.com/?channelId=329
 
 地方web,#genre#
