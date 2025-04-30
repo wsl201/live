@@ -418,12 +418,10 @@ CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
 
 安徽web,#genre#
-安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 安徽经济生活,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
 安徽综艺体育,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
 安徽影视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
 安徽公共,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
-安徽卫视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=47
 安徽经济生活,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=71
 安徽综艺体育,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=73
 安徽影视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=72
