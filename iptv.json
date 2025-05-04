@@ -1,0 +1,34 @@
+{
+"lives": [{
+		"name": "gitee-fmm",
+		"type": 0,
+		"url": "https://gitee.com/wsl201/oktv/raw/main/fmm.txt",
+		"User-Agent": "okhttp/5.0.0-alpha.14",
+		"epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+		"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"
+	},
+	{
+		"name": "快直播电视(python)",
+		"type": 3,
+		"api": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/kzb.py",
+		"ext": {}
+	},
+	{
+		"name": "jsdelivr-fmm",
+		"type": 0,
+		"url": "https://fastly.jsdelivr.net/gh/wsl201/live@main/fmm.txt",
+		"User-Agent": "okhttp/5.0.0-alpha.14",
+		"epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+		"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"
+	},
+	{
+		"name": "📺青龙电视",
+		"type": 0,
+		"url": "https://6758.kstore.space/666.txt",
+		"playerType": 1,
+		"User-Agent": "okhttp/5.0.0-alpha.14",
+		"epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+		"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"
+	}
+]
+}
