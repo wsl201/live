@@ -290,7 +290,6 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 安徽综艺体育,video://https://h5.ahtv.cn/folder9000/folder20193?channel_id=73
 安徽影视,video://https://h5.ahtv.cn/folder9000/folder20193?channel_id=72
 安徽公共,video://https://h5.ahtv.cn/folder9000/folder20193?channel_id=50
-湖南先锋乒羽,video://https://live.mgtv.com/?channelId=329
 
 地方web,#genre#
 东南卫视,video://https://live.fjtv.net/setv/
