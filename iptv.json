@@ -4,7 +4,7 @@
 		"type": 0,
 		"url": "https://gitee.com/wsl201/oktv/raw/main/fmm.txt",
 		"User-Agent": "okhttp/5.0.0-alpha.14",
-		"epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+		"epg": "https://epg.zbds.top/index.php?ch={name}",
 		"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"
 	},
 	{
@@ -18,7 +18,7 @@
 		"type": 0,
 		"url": "https://fastly.jsdelivr.net/gh/wsl201/live@main/fmm.txt",
 		"User-Agent": "okhttp/5.0.0-alpha.14",
-		"epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+		"epg": "https://epg.zbds.top/index.php?ch={name}",
 		"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"
 	},
 	{

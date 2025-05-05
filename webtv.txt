@@ -58,6 +58,18 @@ CCTV-13,http://106.111.244.182:60001/tsfile/live/0013_1.m3u8?key=txiptv&playlive
 CCTV-14,http://106.111.244.182:60001/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://106.111.244.182:60001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
+CCTV13,http://dsj.motem.top:8880/bptv/10000100000000050000000004796248.m3u8
+
+CCTV3,http://113.64.146.94:2024/hls/20/index.m3u8
+CCTV5,http://113.64.146.94:2024/hls/22/index.m3u8
+CCTV6,http://113.64.146.94:2024/hls/23/index.m3u8
+CCTV8,http://113.64.146.94:2024/hls/25/index.m3u8
+CCTV9,http://113.64.146.94:2024/hls/26/index.m3u8
+CCTV10,http://113.64.146.94:2024/hls/28/index.m3u8
+CCTV11,http://113.64.146.94:2024/hls/29/index.m3u8
+CCTV16,http://113.64.146.94:2024/hls/35/index.m3u8
+CCTV风云足球,http://113.64.146.94:2024/hls/43/index.m3u8
+
 CCTV-1,http://ycsj.aguihome.com:4022/rtp/233.50.201.118:5140
 CCTV-2,http://ycsj.aguihome.com:4022/rtp/233.50.201.119:5140
 CCTV-3,http://ycsj.aguihome.com:4022/rtp/233.50.201.196:5140
@@ -133,6 +145,32 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 卫视频道,#genre#
 
+安徽卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873469.m3u8
+辽宁卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873468.m3u8
+
+安徽卫视,http://113.64.146.94:2024/hls/66/index.m3u8
+辽宁卫视,http://113.64.146.94:2024/hls/67/index.m3u8
+北京卫视,http://113.64.146.94:2024/hls/60/index.m3u8
+湖南卫视,http://113.64.146.94:2024/hls/56/index.m3u8
+江苏卫视,http://113.64.146.94:2024/hls/59/index.m3u8
+浙江卫视,http://113.64.146.94:2024/hls/57/index.m3u8
+东方卫视,http://113.64.146.94:2024/hls/58/index.m3u8
+天津卫视,http://113.64.146.94:2024/hls/69/index.m3u8
+山东卫视,http://113.64.146.94:2024/hls/62/index.m3u8
+湖北卫视,http://113.64.146.94:2024/hls/68/index.m3u8
+黑龙江卫视,http://113.64.146.94:2024/hls/70/index.m3u8
+重庆卫视,http://113.64.146.94:2024/hls/71/index.m3u8
+贵州卫视,http://113.64.146.94:2024/hls/72/index.m3u8
+河北卫视,http://113.64.146.94:2024/hls/73/index.m3u8
+河南卫视,http://113.64.146.94:2024/hls/77/index.m3u8
+广西卫视,http://113.64.146.94:2024/hls/80/index.m3u8
+云南卫视,http://113.64.146.94:2024/hls/86/index.m3u8
+海南卫视,http://113.64.146.94:2024/hls/87/index.m3u8
+吉林卫视,http://113.64.146.94:2024/hls/89/index.m3u8
+广东卫视,http://113.64.146.94:2024/hls/55/index.m3u8
+江西卫视,http://113.64.146.94:2024/hls/61/index.m3u8
+四川卫视,http://113.64.146.94:2024/hls/65/index.m3u8
+
 安徽卫视,http://goo.bkpcp.top/mg/ahws
 辽宁卫视,http://goo.bkpcp.top/mg/lnws
 北京卫视,http://goo.bkpcp.top/mg/bjws
@@ -189,6 +227,27 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
 
 山东卫视,http://106.111.244.182:60001/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+
+广东卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873459.m3u8
+浙江卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873464.m3u8
+湖南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873458.m3u8
+北京卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003870776.m3u8
+湖北卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873465.m3u8
+黑龙江卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873470.m3u8
+重庆卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000004796458.m3u8
+东方卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873462.m3u8
+东南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873473.m3u8
+贵州卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873471.m3u8
+江苏卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873461.m3u8
+江西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000004796511.m3u8
+山东卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873467.m3u8
+深圳卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873474.m3u8
+天津卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873466.m3u8
+河北卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873460.m3u8
+
+北京卫视,http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
+
+江苏卫视,http://nctv.top/IDOEPpiryt/jstv5.php?id=jsws
 
 湖南卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.103:5140
 北京卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.107:5140
