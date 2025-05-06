@@ -4,8 +4,8 @@
 		"type": 0,
 		"url": "https://gitee.com/wsl201/oktv/raw/main/fmm.txt",
 		"User-Agent": "okhttp/5.0.0-alpha.14",
-		"epg": "https://epg.zbds.top/index.php?ch={name}",
-		"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"
+		"epg": "https://live.fanmingming.cn/e.xml",
+		"logo": "https://live.fanmingming.cn/tv/{name}.png"
 	},
 	{
 		"name": "快直播电视(python)",
@@ -17,6 +17,14 @@
 		"name": "jsdelivr-fmm",
 		"type": 0,
 		"url": "https://fastly.jsdelivr.net/gh/wsl201/live@main/fmm.txt",
+		"User-Agent": "okhttp/5.0.0-alpha.14",
+		"epg": "https://epg.zbds.top/index.php?ch={name}",
+		"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"
+	},
+	{
+		"name": "测试2",
+		"type": 0,
+		"url": "https://gitee.com/wsl201/oktv/raw/main/text2.txt",
 		"User-Agent": "okhttp/5.0.0-alpha.14",
 		"epg": "https://epg.zbds.top/index.php?ch={name}",
 		"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"
