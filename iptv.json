@@ -1,5 +1,6 @@
 {
-"lives": [{
+"lives": [
+	{
 		"name": "gitee-fmm",
 		"type": 0,
 		"url": "https://gitee.com/wsl201/oktv/raw/main/fmm.txt",
@@ -12,6 +13,14 @@
 		"type": 3,
 		"api": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/kzb.py",
 		"ext": {}
+	},
+	{
+		"name": "调试助手ba",
+		"type": 0,
+		"url": "https://gitee.com/xxy002/zhiboyuan/raw/master/dsy",
+		"User-Agent": "okhttp/5.0.0-alpha.14",
+		"epg": "https://live.fanmingming.cn/e.xml",
+		"logo": "https://live.fanmingming.cn/tv/{name}.png"
 	},
 	{
 		"name": "jsdelivr-fmm",
