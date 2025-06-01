@@ -9,14 +9,6 @@
 		"logo": "https://live.fanmingming.cn/tv/{name}.png"
 	},
 	{
-		"name": "医工学习日志",
-		"type": 0,
-		"url": "http://php.cqshushu.ggff.net/jzb.php?公众号【医工学习日志】",
-		"User-Agent": "okhttp/5.0.0-alpha.14",
-		"epg": "https://live.fanmingming.cn/e.xml",
-		"logo": "https://live.fanmingming.cn/tv/{name}.png"
-	},
-	{
 		"name": "📺青龙电视",
 		"type": 0,
 		"url": "https://6758.kstore.space/666.txt",
@@ -26,9 +18,59 @@
 		"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"
 	},
 	{
+		"name": "APTV",
+		"type": 0,
+		"url": "https://gh-proxy.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
+		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo": "https://epg.iill.top/logo/{name}.png",
+		"ua": "okhttp/3.15,AptvPlayer/1.4.0",
+		"timeout": 10
+	},
+	{
+		"name": "咪咕视频",
+		"type": 0,
+		"url": "https://gh-proxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+		"playerType": 1,
+		"User-Agent": "okhttp/5.0.0-alpha.14",
+		"epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+		"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"
+	},
+	{
+		"name": "潇洒AI直播",
+		"type": 0,
+		"url": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+		"User-Agent": "okhttp/5.0.0-alpha.14",
+		"epg": "https://live.fanmingming.cn/e.xml",
+		"logo": "https://live.fanmingming.cn/tv/{name}.png"
+	},
+	{
+		"name": "Guovin",
+		"type": 0,
+		"url": "https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+		"User-Agent": "okhttp/5.0.0-alpha.14",
+		"epg": "https://live.fanmingming.cn/e.xml",
+		"logo": "https://live.fanmingming.cn/tv/{name}.png"
+	},
+	{
+		"name": "医工极直播",
+		"type": 0,
+		"url": "http://php.cqshushu.ggff.net/jzb.php?公众号【医工学习日志】",
+		"User-Agent": "okhttp/5.0.0-alpha.14",
+		"epg": "https://live.fanmingming.cn/e.xml",
+		"logo": "https://live.fanmingming.cn/tv/{name}.png"
+	},
+	{
+		"name": "医工345直播",
+		"type": 0,
+		"url": "http://php.cqshushu.ggff.net/345.php?公众号【医工学习日志】",
+		"User-Agent": "okhttp/5.0.0-alpha.14",
+		"epg": "https://live.fanmingming.cn/e.xml",
+		"logo": "https://live.fanmingming.cn/tv/{name}.png"
+	},
+	{
 		"name": "范明明",
 		"type": 0,
-		"url": "https://iptv.b2og.com/txt/fmml_ipv6.txt",
+		"url": "https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
 		"User-Agent": "okhttp/5.0.0-alpha.14",
 		"epg": "https://live.fanmingming.cn/e.xml",
 		"logo": "https://live.fanmingming.cn/tv/{name}.png"
@@ -36,7 +78,7 @@
 	{
 		"name": "中国移动专线",
 		"type": 0,
-		"url": "https://gitee.com/explorerromos/zhiboyuandiy/raw/master/移动直播源/ipv4.txt",
+		"url": "https://gitee.com/explorerromos/zhiboyuandiy/raw/master/ipv4zgyd.txt",
 		"User-Agent": "okhttp/5.0.0-alpha.14",
 		"epg": "https://live.fanmingming.cn/e.xml",
 		"logo": "https://live.fanmingming.cn/tv/{name}.png"
@@ -50,12 +92,11 @@
 		"logo": "https://live.fanmingming.cn/tv/{name}.png"
 	},
 	{
-		"name": "jsdelivr-itv",
+		"name": "网络Live",
 		"type": 0,
-		"url": "https://fastly.jsdelivr.net/gh/wsl201/live@main/itv.txt",
-		"User-Agent": "okhttp/5.0.0-alpha.14",
-		"epg": "https://epg.zbds.top/index.php?ch={name}",
-		"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"
+		"url": "https://tv.iill.top/m3u/Live",
+		"playerType": 2,
+		"timeout": 10
 	}
 ]
 }
